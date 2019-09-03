@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\ConsoleAppStudentMarks\bin\Debug\ConsoleAppStudentMarks.exe.config
+C:\Users\admin\source\repos\ConsoleAppStudentMarks\bin\Debug\ConsoleAppStudentMarks.exe
+C:\Users\admin\source\repos\ConsoleAppStudentMarks\bin\Debug\ConsoleAppStudentMarks.pdb
+C:\Users\admin\source\repos\ConsoleAppStudentMarks\obj\Debug\ConsoleAppStudentMarks.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleAppStudentMarks\obj\Debug\ConsoleAppStudentMarks.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConsoleAppStudentMarks\obj\Debug\ConsoleAppStudentMarks.exe
+C:\Users\admin\source\repos\ConsoleAppStudentMarks\obj\Debug\ConsoleAppStudentMarks.pdb
